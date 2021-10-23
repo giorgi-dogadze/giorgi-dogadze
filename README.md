@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giorgi-dogadze
+- 👋 Hi, I’m @giorgi-dogadze.
 - 👀 I’m interested in Web Development, currently working on React and Node JS
 - 🌱 I’m currently learning React, Node, Nest, Next
 - 💞️ I’m looking to collaborate on Interesting Projects
